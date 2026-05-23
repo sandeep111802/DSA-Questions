@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sandeep111802/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
