@@ -16,17 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sandeep111802/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sandeep111802/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Sliding Window
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
 |  |
 | ------- |
