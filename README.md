@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/sandeep111802/DSA-Questions/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
