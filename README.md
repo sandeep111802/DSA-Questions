@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [2833-furthest-point-from-origin](https://github.com/sandeep111802/DSA-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep111802/DSA-Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sandeep111802/DSA-Questions/tree/master/0371-sum-of-two-integers) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0191-number-of-1-bits) |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
