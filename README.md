@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep111802/DSA-Questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/sandeep111802/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sandeep111802/DSA-Questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/sandeep111802/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
