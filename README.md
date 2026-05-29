@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sandeep111802/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 ## Dynamic Programming
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -113,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
