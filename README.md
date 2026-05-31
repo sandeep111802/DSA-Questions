@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1720-decode-xored-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1720-decode-xored-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1720-decode-xored-array) |
 | [1734-decode-xored-permutation](https://github.com/sandeep111802/DSA-Questions/tree/master/1734-decode-xored-permutation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
