@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
