@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
+| [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
+| [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 ## Matrix
 |  |
 | ------- |
