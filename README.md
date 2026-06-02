@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3133-minimum-array-end](https://github.com/sandeep111802/DSA-Questions/tree/master/3133-minimum-array-end) |
 ## Dynamic Programming
 |  |
 | ------- |
