@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
