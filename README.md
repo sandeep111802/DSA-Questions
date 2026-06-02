@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2833-furthest-point-from-origin](https://github.com/sandeep111802/DSA-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sandeep111802/DSA-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
