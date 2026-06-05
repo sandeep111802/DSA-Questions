@@ -2,7 +2,7 @@ class Solution {
     public int searchInsert(int[] nums, int target) {
 
         int n = nums.length;
-        int ans = -1;
+        int ans = n;
         int left = 0;
         int right = n - 1;
 
@@ -15,7 +15,7 @@ class Solution {
                
             } else {
                 left = mid + 1;
-                ans = left;
+                
             }
         }
 
