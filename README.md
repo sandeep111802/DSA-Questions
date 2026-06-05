@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sandeep111802/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sandeep111802/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sandeep111802/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sandeep111802/DSA-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
