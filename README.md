@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3516-find-closest-person](https://github.com/sandeep111802/DSA-Questions/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
