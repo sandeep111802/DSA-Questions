@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sandeep111802/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sandeep111802/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sandeep111802/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sandeep111802/DSA-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sandeep111802/DSA-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sandeep111802/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sandeep111802/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
