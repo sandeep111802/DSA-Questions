@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sandeep111802/DSA-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/sandeep111802/DSA-Questions/tree/master/0875-koko-eating-bananas) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
