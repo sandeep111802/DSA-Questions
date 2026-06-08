@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1720-decode-xored-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
