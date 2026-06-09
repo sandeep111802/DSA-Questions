@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandeep111802/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sandeep111802/DSA-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/sandeep111802/DSA-Questions/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeep111802/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
