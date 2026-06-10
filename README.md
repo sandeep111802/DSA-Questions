@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
