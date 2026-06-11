@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
+| [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sandeep111802/DSA-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sandeep111802/DSA-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
