@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sandeep111802/DSA-Questions/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandeep111802/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeep111802/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
