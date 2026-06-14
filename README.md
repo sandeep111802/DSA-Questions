@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2683-neighboring-bitwise-xor](https://github.com/sandeep111802/DSA-Questions/tree/master/2683-neighboring-bitwise-xor) |
+| [2848-points-that-intersect-with-cars](https://github.com/sandeep111802/DSA-Questions/tree/master/2848-points-that-intersect-with-cars) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep111802/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/sandeep111802/DSA-Questions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sandeep111802/DSA-Questions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2848-points-that-intersect-with-cars](https://github.com/sandeep111802/DSA-Questions/tree/master/2848-points-that-intersect-with-cars) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sandeep111802/DSA-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
+| [2848-points-that-intersect-with-cars](https://github.com/sandeep111802/DSA-Questions/tree/master/2848-points-that-intersect-with-cars) |
 ## Math
 |  |
 | ------- |
