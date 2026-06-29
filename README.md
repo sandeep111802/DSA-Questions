@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/sandeep111802/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeep111802/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
