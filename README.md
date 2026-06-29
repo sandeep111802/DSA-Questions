@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sandeep111802/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -297,5 +300,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0328-odd-even-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
