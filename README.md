@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1720-decode-xored-array) |
 | [1734-decode-xored-permutation](https://github.com/sandeep111802/DSA-Questions/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sandeep111802/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/sandeep111802/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sandeep111802/DSA-Questions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sandeep111802/DSA-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/sandeep111802/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/sandeep111802/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sandeep111802/DSA-Questions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep111802/DSA-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/sandeep111802/DSA-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/sandeep111802/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sandeep111802/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
