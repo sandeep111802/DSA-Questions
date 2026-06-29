@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/sandeep111802/DSA-Questions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sandeep111802/DSA-Questions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep111802/DSA-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/sandeep111802/DSA-Questions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sandeep111802/DSA-Questions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/sandeep111802/DSA-Questions/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/sandeep111802/DSA-Questions/tree/master/2643-row-with-maximum-ones) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sandeep111802/DSA-Questions/tree/master/3446-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
