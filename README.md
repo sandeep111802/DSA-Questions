@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep111802/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sandeep111802/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0328-odd-even-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/sandeep111802/DSA-Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Merge Sort
 |  |
 | ------- |
