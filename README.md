@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/sandeep111802/DSA-Questions/tree/master/2527-find-xor-beauty-of-array) |
 | [2939-maximum-xor-product](https://github.com/sandeep111802/DSA-Questions/tree/master/2939-maximum-xor-product) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sandeep111802/DSA-Questions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/sandeep111802/DSA-Questions/tree/master/3516-find-closest-person) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeep111802/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sandeep111802/DSA-Questions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep111802/DSA-Questions/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sandeep111802/DSA-Questions/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
