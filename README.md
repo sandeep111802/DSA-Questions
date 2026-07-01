@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-sort-matrix-by-diagonals](https://github.com/sandeep111802/DSA-Questions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sandeep111802/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
