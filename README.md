@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sandeep111802/DSA-Questions/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sandeep111802/DSA-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
