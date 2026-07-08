@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/sandeep111802/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sandeep111802/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep111802/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
 | [0911-online-election](https://github.com/sandeep111802/DSA-Questions/tree/master/0911-online-election) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sandeep111802/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sandeep111802/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeep111802/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/sandeep111802/DSA-Questions/tree/master/0441-arranging-coins) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep111802/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep111802/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sandeep111802/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
