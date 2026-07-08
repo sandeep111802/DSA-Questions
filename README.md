@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sandeep111802/DSA-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/sandeep111802/DSA-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep111802/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
