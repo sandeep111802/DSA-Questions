@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sandeep111802/DSA-Questions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
