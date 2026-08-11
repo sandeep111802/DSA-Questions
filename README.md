@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sandeep111802/DSA-Questions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep111802/DSA-Questions/tree/master/0342-power-of-four) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sandeep111802/DSA-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -453,5 +455,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
