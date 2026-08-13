@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
+| [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/sandeep111802/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sandeep111802/DSA-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
