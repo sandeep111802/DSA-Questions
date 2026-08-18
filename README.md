@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sandeep111802/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep111802/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0766-toeplitz-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/sandeep111802/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
