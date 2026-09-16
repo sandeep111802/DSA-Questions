@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sandeep111802/DSA-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/sandeep111802/DSA-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep111802/DSA-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1463-cherry-pickup-ii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/sandeep111802/DSA-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sandeep111802/DSA-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
