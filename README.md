@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sandeep111802/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/sandeep111802/DSA-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sandeep111802/DSA-Questions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sandeep111802/DSA-Questions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
