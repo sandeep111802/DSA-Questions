@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
+| [0688-knight-probability-in-chessboard](https://github.com/sandeep111802/DSA-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0931-minimum-falling-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1463-cherry-pickup-ii) |
