@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sandeep111802/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
+| [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
+| [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0931-minimum-falling-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1463-cherry-pickup-ii) |
