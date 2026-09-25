@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/sandeep111802/DSA-Questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sandeep111802/DSA-Questions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeep111802/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sandeep111802/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep111802/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/sandeep111802/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeep111802/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeep111802/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/sandeep111802/DSA-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeep111802/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
@@ -575,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sandeep111802/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
