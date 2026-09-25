@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
+| [0808-soup-servings](https://github.com/sandeep111802/DSA-Questions/tree/master/0808-soup-servings) |
 | [0920-number-of-music-playlists](https://github.com/sandeep111802/DSA-Questions/tree/master/0920-number-of-music-playlists) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sandeep111802/DSA-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0688-knight-probability-in-chessboard](https://github.com/sandeep111802/DSA-Questions/tree/master/0688-knight-probability-in-chessboard) |
+| [0808-soup-servings](https://github.com/sandeep111802/DSA-Questions/tree/master/0808-soup-servings) |
 | [0920-number-of-music-playlists](https://github.com/sandeep111802/DSA-Questions/tree/master/0920-number-of-music-playlists) |
 | [0931-minimum-falling-path-sum](https://github.com/sandeep111802/DSA-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -556,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/sandeep111802/DSA-Questions/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
