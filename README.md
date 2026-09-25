@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sandeep111802/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/sandeep111802/DSA-Questions/tree/master/0436-find-right-interval) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/sandeep111802/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sandeep111802/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/sandeep111802/DSA-Questions/tree/master/0766-toeplitz-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sandeep111802/DSA-Questions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/sandeep111802/DSA-Questions/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/sandeep111802/DSA-Questions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0920-number-of-music-playlists](https://github.com/sandeep111802/DSA-Questions/tree/master/0920-number-of-music-playlists) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/sandeep111802/DSA-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0688-knight-probability-in-chessboard](https://github.com/sandeep111802/DSA-Questions/tree/master/0688-knight-probability-in-chessboard) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sandeep111802/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sandeep111802/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep111802/DSA-Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sandeep111802/DSA-Questions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Database
 |  |
@@ -543,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/sandeep111802/DSA-Questions/tree/master/0920-number-of-music-playlists) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sandeep111802/DSA-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
