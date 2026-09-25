@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sandeep111802/DSA-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sandeep111802/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/sandeep111802/DSA-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sandeep111802/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep111802/DSA-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sandeep111802/DSA-Questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sandeep111802/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sandeep111802/DSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/sandeep111802/DSA-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/sandeep111802/DSA-Questions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/sandeep111802/DSA-Questions/tree/master/0338-counting-bits) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sandeep111802/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sandeep111802/DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Binary Lifting
 |  |
@@ -562,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/sandeep111802/DSA-Questions/tree/master/0808-soup-servings) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sandeep111802/DSA-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
