@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sandeep111802/DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0664-strange-printer](https://github.com/sandeep111802/DSA-Questions/tree/master/0664-strange-printer) |
 | [0771-jewels-and-stones](https://github.com/sandeep111802/DSA-Questions/tree/master/0771-jewels-and-stones) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep111802/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sandeep111802/DSA-Questions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sandeep111802/DSA-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sandeep111802/DSA-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandeep111802/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sandeep111802/DSA-Questions/tree/master/0155-min-stack) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep111802/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
 | ------- |
@@ -582,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sandeep111802/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep111802/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
